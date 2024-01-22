@@ -23,7 +23,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="45" height="45"/>
 </p>
 <h2>&nbsp;Recap of my projects at school 42</h2>
 <ul>
@@ -111,13 +110,6 @@ You can click the Preview link to take a look at your changes.
 			The goal of this project is pretty straightforward. Recode printf().
 			Mainly to learn about using a variable number of arguments. How cool is that??
 			It is actually pretty cool :)</p>
-	</li>
-	<li>
-		<h3 class="project-title">&nbsp;netwhat</h3>
-		<p class="summary">
-			The goal of this project is to understand IP adresses and masks, learning
-			the foundations of network programming.
-		</p>
 	</li>
 	<li>
 		<h3 class="project-title">&nbsp;libasm</h3>
