@@ -2,7 +2,7 @@
 ablondel42/ablondel42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Hey Everyone! I'm Arnaud! 👨🏻‍💻🇫🇷☕️</h1>
+<h1>Hey Everyone! I'm Arnaud!</h1>
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablondel42&layout=compact&theme=transparent&langs_count=10" width="50%"/>
 </div>
