@@ -27,5 +27,5 @@ You can click the Preview link to take a look at your changes.
 	<p>I participated in the international internship program with CDG-Group in Bangkok (TH) where I had the opportunity to learn about Flutter, and do the first drafts of a full-stack application. My previous experiences in other languages played a huge role in prototyping an app on a technology that i didn't know much beforehand. It was great and i learned a lot of valuable skills.</p>
 	
   <h2>&nbsp;My next objectives</h2>
-	<p>I am now diving into Java with Spring and Angular.</p>
+	<p>I am now diving into Java & Typescript with Spring and Angular.</p>
 </div>
