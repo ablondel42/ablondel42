@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <h2>&nbsp;Some of the tools I learned, use and love ❤️</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,js,ts,bash,css,html,dart,nestjs,docker,flutter" />
+    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,js,ts,bash,css,html,dart,nestjs,docker,flutter,java" />
   </a>
 </p>
 <h2>&nbsp;My latest experience</h2>
