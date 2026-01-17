@@ -3,7 +3,7 @@ ablondel42/ablondel42 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1>Hey Everyone! I'm Arnaud!</h1>
-<div>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ablondel42)](https://github.com/ablondel42/github-readme-stats)</div>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ablondel42)](https://github.com/ablondel42/github-readme-stats)
 <div>
 <h2>&nbsp;Some of the tools I learned, use and love ❤️</h2>
 <p align="left">
