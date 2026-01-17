@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone! I'm Arnaud!</h1>
 
 <p align="center">
-  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=ablondel42" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ablondel42&show_icons=true&theme=transparent" />
 </p>
 
 <div>
