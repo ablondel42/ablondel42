@@ -8,7 +8,7 @@
 
 ## My studies
 
-I was a student at **Campus19**, the **42 School in Brussels**.  
+I was a student at **School 42** in Brussels.  
 There I learned to code in **C / C++**, but more importantly, I learned *how to learn* from and with my peers.  
 It was an invaluable experience and I gained a lot from it.
 
