@@ -4,7 +4,7 @@
 
 ## Some of the tools I learned, use and love ❤️
 
-![Skills](https://skillicons.dev/icons?i=git,py,c,cpp,js,ts,bash,css,html,dart,nestjs,docker,flutter,java)
+![Skills](https://skillicons.dev/icons?i=git,py,js,ts,c,cpp,bash,css,html,dart,docker,flutter&perline=6)
 
 ## My studies
 
