@@ -1,6 +1,6 @@
 # Hey Everyone! I'm Arnaud! 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ablondel42&layout=compact&theme=transparent)
+[![Arnaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablondel42&show_icons=true&theme=transparent&cache_seconds=86400)](https://github.com/ablondel42)
 
 
 ## Some of the tools I learned, use and love ❤️
