@@ -1,8 +1,9 @@
 <h1 align="center">Hey Everyone! I'm Arnaud!</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ablondel42&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ablondel42&show_icons=true" />
 </p>
+
 
 <div>
   <h2>Some of the tools I learned, use and love ❤️</h2>
