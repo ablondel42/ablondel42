@@ -1,26 +1,19 @@
-<h1 align="center">Hey Everyone! I'm Arnaud!</h1>
+# Hey Everyone! I'm Arnaud! 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ablondel42&show_icons=true" />
-</p>
+[![Arnaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablondel42&show_icons=true&theme=transparent)](https://github.com/ablondel42)
 
+## Some of the tools I learned, use and love ❤️
 
-<div>
-  <h2>Some of the tools I learned, use and love ❤️</h2>
+![Skills](https://skillicons.dev/icons?i=git,py,c,cpp,js,ts,bash,css,html,dart,nestjs,docker,flutter,java)
 
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,py,c,cpp,js,ts,bash,css,html,dart,nestjs,docker,flutter,java" />
-    </a>
-  </p>
+## My studies
 
-  <h2>My studies</h2>
-  <p>
-    I was a student at Campus19, the 42School in Brussels. There I learned to code in C / C++, but mainly, I learned how to learn from and with my peers.
-  </p>
+I was a student at **Campus19**, the **42 School in Brussels**.  
+There I learned to code in **C / C++**, but more importantly, I learned *how to learn* from and with my peers.  
+It was an invaluable experience and I gained a lot from it.
 
-  <h2>My latest experience</h2>
-  <p>
-    I participated in the international internship program with CDG-Group in Bangkok (TH) where I worked with Flutter and prototyped a full-stack application.
-  </p>
-</div>
+## My latest experience
+
+I participated in the **international internship program** with **CDG-Group in Bangkok (TH)**, where I worked with **Flutter** and helped prototype a **full-stack application**.
+
+My previous experience in other languages played a huge role in quickly adapting to a technology I didn’t know much about beforehand.
