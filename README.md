@@ -12,7 +12,9 @@ I was a student at **Campus19**, the **42 School in Brussels**.
 There I learned to code in **C / C++**, but more importantly, I learned *how to learn* from and with my peers.  
 It was an invaluable experience and I gained a lot from it.
 
-## My latest experience
+## My experience
+
+I worked as a **full stack developer** at Neo Mobility with Python and Javascript, Postgres and Odoo. 
 
 I participated in the **international internship program** with **CDG-Group in Bangkok (TH)**, where I worked with **Flutter** and helped prototype a **full-stack application**.
 
