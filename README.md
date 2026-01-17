@@ -1,6 +1,6 @@
 # Hey Everyone! I'm Arnaud! 👋
 
-![Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ablondel42&type=languages&theme=github&chart=pie)
+![Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ablondel42&type=languages&theme=github-dark&chart=donut)
 
 ## Some of the tools I learned, use and love ❤️
 
