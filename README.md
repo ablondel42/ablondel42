@@ -1,9 +1,17 @@
 # Hey Everyone! I'm Arnaud! 👋
 
-I’m currently building systems that help developers get the most out of AI agents by reducing hallucinations, improving context handling, and supporting human-in-the-loop workflows.
-I’m genuinely passionate about computer science and technology in general. I’ve worked with many programming languages, from assembly to Python.
-I work as a full-stack developer, and I explore AI research as a hobby for now 😄 because, as Dario said, we might be out of jobs this year...
-I’m stack-agnostic, and I like to approach development from a big-picture perspective.
+# About me
+
+I'm building systems to help developers get more out of AI agents: fewer hallucinations, better context, and human-in-the-loop workflows.
+
+I'm passionate about computer science and technology in general, and I've worked with languages ranging from assembly to Python.
+
+I work professionally as a full-stack developer and explore AI research as a hobby for now 😄 because, as Dario said, we might all be out of jobs this year.
+
+I'm stack-agnostic and like to approach development from a big-picture perspective
+
+Assess → code → evaluate → validate → test → ship 🚀
+
 
 ![Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ablondel42&type=languages&theme=github&chart=donut)
 
