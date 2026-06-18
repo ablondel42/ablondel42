@@ -3,15 +3,8 @@
 # About me
 
 I'm building systems to help developers get more out of AI agents: fewer hallucinations, better context, and human-in-the-loop workflows.
-
 I'm passionate about computer science and technology in general, and I've worked with languages ranging from assembly to Python.
-
-I work professionally as a full-stack developer and explore AI research as a hobby for now 😄 because, as Dario said, we might all be out of jobs this year.
-
-I'm stack-agnostic and like to approach development from a big-picture perspective
-
-Assess → code → evaluate → validate → test → ship 🚀
-
+Exploring AI tools as a hobby for now 😄 because, as Dario said, we might all be out of jobs this year.
 
 ![Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ablondel42&type=languages&theme=github&chart=donut)
 
@@ -22,9 +15,7 @@ Assess → code → evaluate → validate → test → ship 🚀
 ## My experience
 
 I worked as a **full stack developer** at Neo Mobility with Python and Javascript, Postgres and Odoo. 
-
 I participated in the **international internship program** with **CDG-Group in Bangkok (TH)**, where I worked with **Flutter** and helped prototype a **full-stack application**.
-
 My previous experience in other languages played a huge role in quickly adapting to a technology I didn’t know much about beforehand.
 
 ## My education
